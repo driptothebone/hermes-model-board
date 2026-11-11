@@ -1,0 +1,7 @@
+name: hermes-model-board
+version: "0.1.0"
+description: "Phone-first single-host bulk model routing with host-owned inventory, explicit preview/confirmation and same-process conflict protection. No credential-store reads."
+author: driptothebone
+requires_hermes: ">=0.23.0"
+provides_tools: []
+provides_hooks: []

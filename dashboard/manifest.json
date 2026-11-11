@@ -1,0 +1,10 @@
+{
+  "name": "hermes-model-board",
+  "label": "Model Board",
+  "description": "Phone-first single-host bulk model routing with host-owned inventory and confirmed preview/apply.",
+  "icon": "Settings",
+  "version": "0.1.0",
+  "tab": {"path": "/hermes-model-board", "position": "end"},
+  "entry": "page.js",
+  "api": "plugin_api.py"
+}
